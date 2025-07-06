@@ -19,7 +19,7 @@ Lennart Schlaß (Anschrift wie oben)
 
 ## Scope  
 Dieses Impressum gilt für den Twitch-Kanal  
-<https://twitch.tv/DEIN_KANALNAME>  
+<https://www.twitch.tv/thinygamer99>  
 sowie für alle Online-Angebote, die auf dieses Dokument verweisen.  
 
 ---
@@ -40,5 +40,5 @@ Lennart Schlaß (address as above)
 
 **Scope**  
 This legal notice applies to the Twitch channel  
-<https://twitch.tv/YOUR_CHANNEL_NAME>  
+<https://www.twitch.tv/thinygamer99>  
 and to any other online presence that links to this page.  
